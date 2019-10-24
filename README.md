@@ -2,9 +2,9 @@
 <html>
 <body>
 
-<h1 align="center"><i><u><text>Mis página Web</u></i></h1>
+<h1><i><u><text>Mis página Web</u></i></h1>
 
-<p align="center"><a href="https://ibb.co/d7xSJPb"><img src="https://i.ibb.co/jHsdZyV/Whats-App-Image-2019-10-23-at-12-59-10-PM.jpg" alt="Whats-App-Image-2019-10-23-at-12-59-10-PM" border="0"width="200" height="250"> </a></p>
+<p><a href="https://ibb.co/d7xSJPb"><img src="https://i.ibb.co/jHsdZyV/Whats-App-Image-2019-10-23-at-12-59-10-PM.jpg" alt="Whats-App-Image-2019-10-23-at-12-59-10-PM" border="0"width="200" height="250"> </a></p>
 <p><u>Datos Personales Principales:</u>
 Mi nombre es Yilveth Jacob, tengo 19 años y me gusta escuchar música, jugar videojuegos y ver memes gatitos tristes.
 </p>
