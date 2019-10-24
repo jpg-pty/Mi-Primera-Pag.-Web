@@ -1,6 +1,3 @@
-
-
-<!DOCTYPE html>
 <html>
 <body>
 <h1 align="center">Mi página Web</h1>
