@@ -6,9 +6,9 @@
 <br>Datos personales principales:
 Mi nombre es Yilveth Jacob, tengo 19 años y me gusta escuchar música, jugar videojuegos, ver series y memes gatitos tristes.
 <p>Datos de educación:
-<br>Pimaria y pre-media: <i>Centro Escolar San Miguel Febres Cordero</i>
-<br>Media: <i>Instito José Dolores Moscote
-<p><u>Redes Sociales:</u>
+  <br>Pimaria y pre-media: <i>Centro Escolar San Miguel Febres Cordero</i>
+  <br>Media: <i>Instito José Dolores Moscote</i></p>
+<p>Redes Sociales:
 <address>
 <li>Correo:<a href="mailto:yilveth12@hotmail.com"> yilveth12@hotmail.com</a> 
 </li>
